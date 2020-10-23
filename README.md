@@ -10,8 +10,8 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [HTML](https://expo.io/)
-- [CSS](https://nodejs.org/en/)
+- [HTML]
+- [CSS]
 - [React](https://pt-br.reactjs.org/)
 - [TMDB](https://www.themoviedb.org/?language=pt-BR)
 - [Material-UI](https://material-ui.com/pt/)
