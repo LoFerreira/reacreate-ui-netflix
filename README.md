@@ -15,3 +15,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 - [TMDB](https://www.themoviedb.org/?language=pt-BR)
 - [Material-UI](https://material-ui.com/pt/)
+
+By: https://www.youtube.com/watch?v=tBweoUiMsDg
